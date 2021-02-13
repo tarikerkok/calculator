@@ -5,9 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+.myButton{
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-top:3px;
+  margin-bottom:3px;
+  width: 50px;
+
 }
+
+
